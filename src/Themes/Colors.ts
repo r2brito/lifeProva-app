@@ -1,0 +1,9 @@
+export const primary = "#EA1D2C";
+export const grey = "#3F3E3E";
+export const lightGrey = "#eee";
+export const white = "#FFF";
+export const black = "#000";
+export const secondary = "#DA5D69";
+export const light = "#F2F2F2";
+export const textPrimary = "#a6a29f";
+export const avaliation = "#FFB761";
